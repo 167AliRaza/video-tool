@@ -1,0 +1,7 @@
+{
+  "name": "Video Speed Tool",
+  "description": "Upload and process videos with custom speeds, compression, live progress tracking, and instant download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
